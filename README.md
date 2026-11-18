@@ -24,7 +24,7 @@ flowchart LR
 
 - **[Taxonomy Overview](#%EF%B8%8F-taxonomy-of-3dgs-for-vla--world-models)**
 - **[Paper List (By Year)](#-3dgs-vla--world-model-paper-list)**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;[2024](#2024) | [2023](#2023)
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;[2025](#2025) | [2024](#2024) | [2023](#2023)
 - **[Performance Comparison](#-3dgs-vla--world-model-performance-comparison)**
   <br>&nbsp;&nbsp;&nbsp;&nbsp;[Waymo-NOTR Dynamic Scenes](#performance-comparisons-on-waymo-notr-dynamic-urban-scenes) | [RealEstate10K & ACID Feed-Forward](#performance-comparisons-on-realestate10k-and-acid-feed-forward-3dgs) | [LERF Open-Vocabulary 3D](#performance-comparisons-on-lerf-open-vocabulary-3d-understanding) | [RLBench Multi-Task Manipulation](#performance-comparisons-on-rlbench-multi-task-manipulation)
 - **[Citations](#citations)** | **[Contributing](#contributing)**
@@ -32,18 +32,37 @@ flowchart LR
 ## 📢 News
 
 - ✅ **2026-11-18**: Initial baseline release covering **2023–2024** foundational papers (28 papers) with machine-validated `data/catalog.json`, provenance documentation in `data/SOURCES.md`, and deterministic README table rendering via `scripts/sync_catalog.py`.
+- ✅ **2026-11-18 (update)**: Added **2025** coverage (14 papers) on 3DGS-empowered VLA & manipulation, Gaussian world models, and feed-forward 3D reconstruction / visual geometry.
 
 ## 🗂️ Taxonomy of 3DGS for VLA & World Models
 
 | Pillar | Core Focus | Representative Works |
 | --- | --- | --- |
-| **1. 3DGS for VLA & Embodied Manipulation / Navigation** | Spatial grounding for VLA, open-vocabulary grasping, editable manipulation, safe navigation | 3D-VLA, GraspSplats, Splat-MOVER, GaussianGrasper, Splat-Nav, GNFactor |
-| **2. 3D/4D Gaussian World Models & Neural Simulators** | Action-conditioned dynamics, physics-grounded 3DGS, driving 4DGS & world-model reconstruction | ManiGaussian, ReconDreamer, Street Gaussians, DrivingGaussian, PVG, PhysGaussian |
-| **3. Language-Grounded & Semantic 3DGS** | Open-vocabulary 3D language fields, point-level grounding, 3D occupancy | LangSplat, LEGaussians, Feature 3DGS, Gaussian Grouping, OpenGaussian, GaussianFormer, LERF |
-| **4. Generalizable, Feed-Forward & Generative 3DGS** | Sparse-view feed-forward 3DGS, dynamic 3D/4DGS foundations | MVSplat, pixelSplat, latentSplat, LGM, 3DGS, Deformable 3DGS, Dynamic 3DGS, 4DGS |
+| **1. 3DGS for VLA & Embodied Manipulation / Navigation** | Spatial grounding for VLA, open-vocabulary grasping, editable manipulation, safe navigation | 3D-VLA, GraspSplats, Splat-MOVER, GaussianGrasper, Splat-Nav, GNFactor, GWM (2025), ManiGaussian++ (2025), RealMirror (2025), VLA-AN (2025) |
+| **2. 3D/4D Gaussian World Models & Neural Simulators** | Action-conditioned dynamics, physics-grounded 3DGS, driving 4DGS & world-model reconstruction | ManiGaussian, ReconDreamer, Street Gaussians, DrivingGaussian, PVG, PhysGaussian, TesserAct (2025), ReconDreamer++ (2025), OmniRe (2025), GigaWorld-0 (2025) |
+| **3. Language-Grounded & Semantic 3DGS** | Open-vocabulary 3D language fields, point-level grounding, 3D occupancy | LangSplat, LEGaussians, Feature 3DGS, Gaussian Grouping, OpenGaussian, GaussianFormer, LERF, LangSplatV2 (2025) |
+| **4. Generalizable, Feed-Forward & Generative 3DGS** | Sparse-view feed-forward 3DGS, dynamic 3D/4DGS foundations | MVSplat, pixelSplat, latentSplat, LGM, 3DGS, Deformable 3DGS, Dynamic 3DGS, 4DGS, VGGT (2025), π³ (2025), DepthSplat (2025), AnySplat (2025), FastVGGT (2025) |
 | **5. Surveys & Taxonomies** | Comprehensive reviews across 3DGS in robotics | 3DGS in Robotics (2024) |
 
 ## 📖 3DGS-VLA & World Model Paper List
+
+### 2025
+| Paper | Venue | Link | Code |
+|-------|--------|------|------|
+| VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments<br><sub>Yuze Wu, Mo Zhu, Xingxing Li, Yuheng Du, Yuxin Fan, Wenjun Li, Zhichao Han, Xin Zhou, Fei Gao</sub> | arXiv 2025 | [Paper](https://arxiv.org/abs/2512.15258) |  |
+| GigaWorld-0: World Models as Data Engine to Empower Embodied AI<br><sub>GigaWorld Team, Angen Ye, Boyuan Wang, Chaojun Ni, Guan Huang, Guosheng Zhao, et al.</sub> | arXiv 2025 | [Paper](https://arxiv.org/abs/2511.19861) | [Code](https://giga-world-0.github.io/) |
+| RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI<br><sub>Cong Tai, Zhaoyu Zheng, Haixu Long, Hansheng Wu, Haodong Xiang, Zhengbin Long, Jun Xiong, Rong Shi, et al.</sub> | arXiv 2025 | [Paper](https://arxiv.org/abs/2509.14687) | [Code](https://terminators2025.github.io/RealMirror.github.io) |
+| FastVGGT: Training-Free Acceleration of Visual Geometry Transformer<br><sub>You Shen, Zhipeng Zhang, Yansong Qu, Xiawu Zheng, Jiayi Ji, Shengchuan Zhang, Liujuan Cao</sub> | arXiv 2025 | [Paper](https://arxiv.org/abs/2509.02560) | [Code](https://mystorm16.github.io/fastvggt/) |
+| GWM: Towards Scalable Gaussian World Models for Robotic Manipulation<br><sub>Guanxing Lu, Baoxiong Jia, Puhao Li, Yixin Chen, Ziwei Wang, Yansong Tang, Siyuan Huang</sub> | ICCV 2025 | [Paper](https://arxiv.org/abs/2508.17600) | [Code](https://gaussian-world-model.github.io/) |
+| π³: Permutation-Equivariant Visual Geometry Learning<br><sub>Yifan Wang, Jianjun Zhou, Haoyi Zhu, Wenzheng Chang, Yang Zhou, Zizun Li, Junyi Chen, Jiangmiao Pang, Chunhua Shen, Tong He</sub> | arXiv 2025 | [Paper](https://arxiv.org/abs/2507.13347) | [Code](https://github.com/yyfz/Pi3) |
+| LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS<br><sub>Wanhua Li, Yujie Zhao, Minghan Qin, Yang Liu, Yuanhao Cai, Chuang Gan, Hanspeter Pfister</sub> | NeurIPS 2025 | [Paper](https://arxiv.org/abs/2507.07136) | [Code](https://langsplat-v2.github.io) |
+| ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model<br><sub>Tengbo Yu, Guanxing Lu, Zaijia Yang, Haoyuan Deng, Season Si Chen, Jiwen Lu, Wenbo Ding, Guoqiang Hu, Yansong Tang, Ziwei Wang</sub> | IROS 2025 | [Paper](https://arxiv.org/abs/2506.19842) | [Code](https://github.com/yangzaijia/ManiGaussian_Bimanual) |
+| AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views<br><sub>Lihan Jiang, Yucheng Mao, Linning Xu, Tao Lu, Kerui Ren, Yichen Jin, Xudong Xu, Mulin Yu, et al.</sub> | SIGGRAPH Asia 2025 (ACM TOG) | [Paper](https://arxiv.org/abs/2505.23716) | [Code](https://github.com/OpenRobotLab/AnySplat) |
+| TesserAct: Learning 4D Embodied World Models<br><sub>Haoyu Zhen, Qiao Sun, Hongxin Zhang, Junyan Li, Siyuan Zhou, Yilun Du, Chuang Gan</sub> | arXiv 2025 | [Paper](https://arxiv.org/abs/2504.20995) | [Code](https://github.com/UMass-Embodied-AGI/TesserAct) |
+| ReconDreamer++: Harmonizing Generative and Reconstructive Models for Driving Scene Representation<br><sub>Guosheng Zhao, Xiaofeng Wang, Chaojun Ni, Zheng Zhu, Wenkang Qin, Guan Huang, Xingang Wang</sub> | arXiv 2025 | [Paper](https://arxiv.org/abs/2503.18438) | [Code](https://recondreamer-plus.github.io/) |
+| VGGT: Visual Geometry Grounded Transformer<br><sub>Jianyuan Wang, Minghao Chen, Nikita Karaev, Andrea Vedaldi, Christian Rupprecht, David Novotny</sub> | CVPR 2025 | [Paper](https://arxiv.org/abs/2503.11651) | [Code](https://github.com/facebookresearch/vggt) |
+| DepthSplat: Connecting Gaussian Splatting and Depth<br><sub>Haofei Xu, Songyou Peng, Fangjinhua Wang, Hermann Blum, Daniel Barath, Andreas Geiger, Marc Pollefeys</sub> | CVPR 2025 | [Paper](https://arxiv.org/abs/2410.13862) | [Code](https://github.com/cvg/depthsplat) |
+| OmniRe: Omni Urban Scene Reconstruction<br><sub>Ziyu Chen, Jiawei Yang, Jiahui Huang, Riccardo de Lutio, Janick Martinez Esturo, Boris Ivanovic, et al.</sub> | ICLR 2025 (Spotlight) | [Paper](https://arxiv.org/abs/2408.16760) | [Code](https://github.com/ziyc/drivestudio) |
 
 ### 2024
 | Paper | Venue | Link | Code |
