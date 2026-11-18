@@ -2,8 +2,120 @@
   "schemaVersion": 1,
   "updated": "2026-11-18",
   "repository": "https://github.com/user/3DGS-VLA-WorldModel-Survey",
-  "paperCount": 28,
+  "paperCount": 42,
   "papers": [
+    {
+      "title": "VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments",
+      "authors": "Yuze Wu, Mo Zhu, Xingxing Li, Yuheng Du, Yuxin Fan, Wenjun Li, Zhichao Han, Xin Zhou, Fei Gao",
+      "venue": "arXiv 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2512.15258",
+      "code": ""
+    },
+    {
+      "title": "GigaWorld-0: World Models as Data Engine to Empower Embodied AI",
+      "authors": "GigaWorld Team, Angen Ye, Boyuan Wang, Chaojun Ni, Guan Huang, Guosheng Zhao, et al.",
+      "venue": "arXiv 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2511.19861",
+      "code": "https://giga-world-0.github.io/"
+    },
+    {
+      "title": "RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI",
+      "authors": "Cong Tai, Zhaoyu Zheng, Haixu Long, Hansheng Wu, Haodong Xiang, Zhengbin Long, Jun Xiong, Rong Shi, et al.",
+      "venue": "arXiv 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2509.14687",
+      "code": "https://terminators2025.github.io/RealMirror.github.io"
+    },
+    {
+      "title": "FastVGGT: Training-Free Acceleration of Visual Geometry Transformer",
+      "authors": "You Shen, Zhipeng Zhang, Yansong Qu, Xiawu Zheng, Jiayi Ji, Shengchuan Zhang, Liujuan Cao",
+      "venue": "arXiv 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2509.02560",
+      "code": "https://mystorm16.github.io/fastvggt/"
+    },
+    {
+      "title": "GWM: Towards Scalable Gaussian World Models for Robotic Manipulation",
+      "authors": "Guanxing Lu, Baoxiong Jia, Puhao Li, Yixin Chen, Ziwei Wang, Yansong Tang, Siyuan Huang",
+      "venue": "ICCV 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2508.17600",
+      "code": "https://gaussian-world-model.github.io/"
+    },
+    {
+      "title": "π³: Permutation-Equivariant Visual Geometry Learning",
+      "authors": "Yifan Wang, Jianjun Zhou, Haoyi Zhu, Wenzheng Chang, Yang Zhou, Zizun Li, Junyi Chen, Jiangmiao Pang, Chunhua Shen, Tong He",
+      "venue": "arXiv 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2507.13347",
+      "code": "https://github.com/yyfz/Pi3"
+    },
+    {
+      "title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
+      "authors": "Wanhua Li, Yujie Zhao, Minghan Qin, Yang Liu, Yuanhao Cai, Chuang Gan, Hanspeter Pfister",
+      "venue": "NeurIPS 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2507.07136",
+      "code": "https://langsplat-v2.github.io"
+    },
+    {
+      "title": "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model",
+      "authors": "Tengbo Yu, Guanxing Lu, Zaijia Yang, Haoyuan Deng, Season Si Chen, Jiwen Lu, Wenbo Ding, Guoqiang Hu, Yansong Tang, Ziwei Wang",
+      "venue": "IROS 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2506.19842",
+      "code": "https://github.com/yangzaijia/ManiGaussian_Bimanual"
+    },
+    {
+      "title": "AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views",
+      "authors": "Lihan Jiang, Yucheng Mao, Linning Xu, Tao Lu, Kerui Ren, Yichen Jin, Xudong Xu, Mulin Yu, et al.",
+      "venue": "SIGGRAPH Asia 2025 (ACM TOG)",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2505.23716",
+      "code": "https://github.com/OpenRobotLab/AnySplat"
+    },
+    {
+      "title": "TesserAct: Learning 4D Embodied World Models",
+      "authors": "Haoyu Zhen, Qiao Sun, Hongxin Zhang, Junyan Li, Siyuan Zhou, Yilun Du, Chuang Gan",
+      "venue": "arXiv 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2504.20995",
+      "code": "https://github.com/UMass-Embodied-AGI/TesserAct"
+    },
+    {
+      "title": "ReconDreamer++: Harmonizing Generative and Reconstructive Models for Driving Scene Representation",
+      "authors": "Guosheng Zhao, Xiaofeng Wang, Chaojun Ni, Zheng Zhu, Wenkang Qin, Guan Huang, Xingang Wang",
+      "venue": "arXiv 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2503.18438",
+      "code": "https://recondreamer-plus.github.io/"
+    },
+    {
+      "title": "VGGT: Visual Geometry Grounded Transformer",
+      "authors": "Jianyuan Wang, Minghao Chen, Nikita Karaev, Andrea Vedaldi, Christian Rupprecht, David Novotny",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2503.11651",
+      "code": "https://github.com/facebookresearch/vggt"
+    },
+    {
+      "title": "DepthSplat: Connecting Gaussian Splatting and Depth",
+      "authors": "Haofei Xu, Songyou Peng, Fangjinhua Wang, Hermann Blum, Daniel Barath, Andreas Geiger, Marc Pollefeys",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2410.13862",
+      "code": "https://github.com/cvg/depthsplat"
+    },
+    {
+      "title": "OmniRe: Omni Urban Scene Reconstruction",
+      "authors": "Ziyu Chen, Jiawei Yang, Jiahui Huang, Riccardo de Lutio, Janick Martinez Esturo, Boris Ivanovic, et al.",
+      "venue": "ICLR 2025 (Spotlight)",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2408.16760",
+      "code": "https://github.com/ziyc/drivestudio"
+    },
     {
       "title": "ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration",
       "authors": "Chaojun Ni, Guosheng Zhao, Xiaofeng Wang, Zheng Zhu, Wenkang Qin, Guan Huang, Chen Liu, Yuyin Chen, Yida Wang, Xueyang Zhang, Yifei Zhan, Kun Zhan, Peng Jia, Xianpeng Lang, Xingang Wang, Wenjun Mei",
@@ -709,6 +821,10 @@
     {
       "date": "2026-11-18",
       "summary": "Initial baseline release (2023-2024) with 28 curated papers and 14 benchmark results across 4 benchmark families."
+    },
+    {
+      "date": "2026-11-18",
+      "summary": "Added 2025 coverage: 14 curated papers spanning 3DGS-empowered VLA and manipulation, Gaussian world models, and feed-forward 3D reconstruction / visual geometry."
     }
   ]
 }
