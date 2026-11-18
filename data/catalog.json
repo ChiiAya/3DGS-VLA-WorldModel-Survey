@@ -1,0 +1,714 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-11-18",
+  "repository": "https://github.com/user/3DGS-VLA-WorldModel-Survey",
+  "paperCount": 28,
+  "papers": [
+    {
+      "title": "ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration",
+      "authors": "Chaojun Ni, Guosheng Zhao, Xiaofeng Wang, Zheng Zhu, Wenkang Qin, Guan Huang, Chen Liu, Yuyin Chen, Yida Wang, Xueyang Zhang, Yifei Zhan, Kun Zhan, Peng Jia, Xianpeng Lang, Xingang Wang, Wenjun Mei",
+      "venue": "arXiv 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2411.19548",
+      "code": "https://github.com/GigaAI-research/ReconDreamer"
+    },
+    {
+      "title": "3D Gaussian Splatting in Robotics: A Survey",
+      "authors": "Siting Zhu, Guangming Wang, Xin Kong, Dezhi Kong, Hesheng Wang",
+      "venue": "arXiv 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2410.12262",
+      "code": "https://github.com/zstsandy/Awesome-3D-Gaussian-Splatting-in-Robotics"
+    },
+    {
+      "title": "GraspSplats: Efficient Manipulation with 3D Feature Splatting",
+      "authors": "Mazeyu Ji, Ri-Zhao Qiu, Xueyan Zou, Xiaolong Wang",
+      "venue": "CoRL 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2409.02084",
+      "code": "https://github.com/jimazeyu/GraspSplats"
+    },
+    {
+      "title": "OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding",
+      "authors": "Yanmin Wu, Jiarui Meng, Haijie Li, Chenming Wu, Yahao Shi, Xinhua Cheng, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang, Jian Zhang",
+      "venue": "NeurIPS 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2406.02058",
+      "code": "https://github.com/OpenGaussian/OpenGaussian"
+    },
+    {
+      "title": "GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction",
+      "authors": "Yuanhui Huang, Wenzhao Zheng, Yunpeng Zhang, Jie Zhou, Jiwen Lu",
+      "venue": "ECCV 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2405.17429",
+      "code": "https://github.com/huang-yh/GaussianFormer"
+    },
+    {
+      "title": "Splat-MOVER: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting",
+      "authors": "Ola Shorinwa, Johnathan Tucker, Aliyah Smith, Aiden Swann, Timothy Chen, Roya Firoozi, Monroe Kennedy III, Mac Schwager",
+      "venue": "arXiv 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2405.04378",
+      "code": "https://splatmover.github.io/"
+    },
+    {
+      "title": "latentSplat: Autoencoding Variational Gaussians for Fast Generalizable 3D Reconstruction",
+      "authors": "Christopher Wewer, Kevin Raj, Eddy Ilg, Bernt Schiele, Jan Eric Lenssen",
+      "venue": "ECCV 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2403.16292",
+      "code": "https://github.com/geometric-rl/latentsplat"
+    },
+    {
+      "title": "MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images",
+      "authors": "Yuedong Chen, Haofei Xu, Chuanxia Zheng, Bohan Zhuang, Marc Pollefeys, Andreas Geiger, Tat-Jen Cham, Jianfei Cai",
+      "venue": "ECCV 2024 (Oral)",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2403.14627",
+      "code": "https://github.com/donydchen/mvsplat"
+    },
+    {
+      "title": "GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping",
+      "authors": "Yuhang Zheng, Xiangyu Chen, Yupeng Zheng, Songen Gu, Runyi Yang, Bu Jin, Pengfei Li, Chengliang Zhong, Zengmao Wang, Lina Liu, Chao Yang, Dawei Wang, Xiaoxiao Long, Meiqing Wang",
+      "venue": "IEEE RA-L 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2403.09637",
+      "code": "https://github.com/MrSecant/GaussianGrasper"
+    },
+    {
+      "title": "3D-VLA: A 3D Vision-Language-Action Generative World Model",
+      "authors": "Haoyu Zhen, et al.",
+      "venue": "ICML 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2403.09631",
+      "code": "https://github.com/UMass-Embodied-AGI/3D-VLA"
+    },
+    {
+      "title": "ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation",
+      "authors": "Guanxing Lu, et al.",
+      "venue": "ECCV 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2403.08321",
+      "code": "https://github.com/guanxinglu/ManiGaussian"
+    },
+    {
+      "title": "Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps",
+      "authors": "Timothy Chen, Ola Shorinwa, Joseph Bruno, Javier Yu, Weijia Zeng, Aiden Swann, Keiko Nagami, Philip Dames, Mac Schwager",
+      "venue": "IEEE T-RO",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2403.02751",
+      "code": "https://github.com/chengine/splatnav"
+    },
+    {
+      "title": "LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation",
+      "authors": "Jiaxiang Tang, Zhaoxi Chen, Xiaokang Chen, Tengfei Wang, Gang Zeng, Ziwei Liu",
+      "venue": "ECCV 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2402.05054",
+      "code": "https://github.com/3DTopia/LGM"
+    },
+    {
+      "title": "Street Gaussians: Modeling Dynamic Urban Scenes with Gaussian Splatting",
+      "authors": "Yunzhi Yan, Haotong Lin, Chenxu Zhou, Weijie Wang, Haiyang Sun, Kun Zhan, Xianpeng Lang, Xiaowei Zhou, Sida Peng",
+      "venue": "ECCV 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2401.01339",
+      "code": "https://github.com/zju3dv/street_gaussians"
+    },
+    {
+      "title": "LangSplat: 3D Language Gaussian Splatting",
+      "authors": "Minghan Qin, Wanhua Li, Jiawei Zhou, Haoqian Wang, Hanspeter Pfister",
+      "venue": "CVPR 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2312.16084",
+      "code": "https://github.com/minghanqin/LangSplat"
+    },
+    {
+      "title": "pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction",
+      "authors": "David Charatan, Sizhe Li, Andrea Tagliasacchi, Vincent Sitzmann",
+      "venue": "CVPR 2024 (Oral)",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2312.12337",
+      "code": "https://github.com/dcharatan/pixelsplat"
+    },
+    {
+      "title": "DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes",
+      "authors": "Xiaoyu Zhou, Zhiwei Lin, Xiaojun Shan, Yongtao Wang, Deqing Sun, Ming-Hsuan Yang",
+      "venue": "CVPR 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2312.07920",
+      "code": "https://github.com/VDIGPKU/DrivingGaussian"
+    },
+    {
+      "title": "Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields",
+      "authors": "Shijie Zhou, Haoran Chang, Sicheng Jiang, Zhiwen Fan, Zehao Zhu, Dejia Xu, Pradyumna Chari, Suya You, Zhangyang Wang, Achuta Kadambi",
+      "venue": "CVPR 2024 (Highlight)",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2312.03203",
+      "code": "https://github.com/ShijieZhou-UCLA/feature-3dgs"
+    },
+    {
+      "title": "Gaussian Grouping: Segment and Edit Anything in 3D Scenes",
+      "authors": "Mingqiao Ye, Martin Danelljan, Fisher Yu, Lei Ke",
+      "venue": "ECCV 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2312.00732",
+      "code": "https://github.com/gaussian-grouping/gaussian-grouping"
+    },
+    {
+      "title": "Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering",
+      "authors": "Zeyu Yang, Hongye Yang, Zhenqi Fu, et al.",
+      "venue": "CVPR 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2311.18561",
+      "code": "https://github.com/ZeyuYang/PVG"
+    },
+    {
+      "title": "LEGaussians: Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding",
+      "authors": "Jin-Chuan Shi, Miao Wang, Hao-Bin Duan, Shao-Hua Guan",
+      "venue": "CVPR 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2311.18482",
+      "code": "https://github.com/buaavrcg/LEGaussians"
+    },
+    {
+      "title": "PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics",
+      "authors": "Tianyi Xie, Zeshun Zong, Yuxing Qiu, Xuan Li, Yutao Feng, Yin Yang, Chenfanfu Jiang",
+      "venue": "CVPR 2024 (Highlight)",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2311.12198",
+      "code": "https://github.com/XPandora/PhysGaussian"
+    },
+    {
+      "title": "4D Gaussian Splatting for Real-Time Dynamic Scene Rendering",
+      "authors": "Guanjun Wu, Taoran Yi, Jiemin Fang, Lingxi Xie, Xiaopeng Zhang, Wei Wei, Wenyu Liu, Qi Tian, Xinggang Wang",
+      "venue": "CVPR 2024",
+      "year": 2024,
+      "paper": "",
+      "code": "https://github.com/hustvl/4DGaussians"
+    },
+    {
+      "title": "Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction",
+      "authors": "Ziyi Yang, Xinyu Gao, Wen Zhou, Shaohui Jiao, Yuqing Zhang, Xiaogang Jin",
+      "venue": "CVPR 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2309.13101",
+      "code": "https://github.com/ingra14m/Deformable-3D-Gaussians"
+    },
+    {
+      "title": "Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis",
+      "authors": "Jonathon Luiten, et al.",
+      "venue": "3DV 2024",
+      "year": 2024,
+      "paper": "https://arxiv.org/abs/2308.09713",
+      "code": "https://github.com/JonathonLuiten/Dynamic3DGaussians"
+    },
+    {
+      "title": "GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields",
+      "authors": "Yanjie Ze, Ge Yan, Yueh-Hua Wu, Annabella Macaluso, Yuying Ge, Jianglong Ye, Nicklas Hansen, Li Erran Li, Xiaolong Wang",
+      "venue": "CoRL 2023 (Oral)",
+      "year": 2023,
+      "paper": "https://arxiv.org/abs/2308.16891",
+      "code": "https://github.com/YanjieZe/GNFactor"
+    },
+    {
+      "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+      "authors": "Bernhard Kerbl, Georgios Kopanas, Thomas Leimkühler, George Drettakis",
+      "venue": "ACM TOG (SIGGRAPH 2023)",
+      "year": 2023,
+      "paper": "https://arxiv.org/abs/2308.04079",
+      "code": "https://github.com/graphdeco-inria/gaussian-splatting"
+    },
+    {
+      "title": "LERF: Language Embedded Radiance Fields",
+      "authors": "Max Kerr, et al.",
+      "venue": "ICCV 2023",
+      "year": 2023,
+      "paper": "https://arxiv.org/abs/2303.09553",
+      "code": "https://github.com/kerrj/lerf"
+    }
+  ],
+  "benchmarks": [
+    {
+      "id": "waymo-notr",
+      "label": "Waymo-NOTR Dynamic Urban Scenes",
+      "short": "Waymo-NOTR",
+      "title": "Performance Comparisons on Waymo-NOTR Dynamic Urban Scenes",
+      "description": "Dynamic32 split evaluation on Waymo-NOTR for full-scene and dynamic bounding-box reconstruction and novel view synthesis.",
+      "table": "S3Gaussian Table 1",
+      "tracks": [
+        {
+          "id": "reconstruction",
+          "label": "Scene Reconstruction"
+        },
+        {
+          "id": "nvs",
+          "label": "Novel View Synthesis (NVS)"
+        }
+      ],
+      "columns": [
+        {
+          "id": "full",
+          "label": "Full (PSNR / SSIM / LPIPS)"
+        },
+        {
+          "id": "dynamic",
+          "label": "Dynamic* (PSNR* / SSIM*)"
+        }
+      ],
+      "metrics": [
+        "psnr",
+        "ssim",
+        "lpips"
+      ],
+      "rows": [
+        {
+          "id": "waymo-rec-3dgs",
+          "track": "reconstruction",
+          "method": "3DGS",
+          "paperTitle": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+          "venue": "ACM TOG (SIGGRAPH 2023)",
+          "category": "Static 3DGS",
+          "approach": "Explicit anisotropic 3D Gaussians baseline",
+          "scores": {
+            "full": [
+              28.47,
+              0.876,
+              0.136
+            ],
+            "dynamic": [
+              23.26,
+              0.716
+            ]
+          },
+          "paper": "https://arxiv.org/abs/2308.04079",
+          "code": "https://github.com/graphdeco-inria/gaussian-splatting",
+          "source": "https://arxiv.org/abs/2405.20323",
+          "sourceLabel": "S3Gaussian · Table 1",
+          "added": false,
+          "note": "Reported in S3Gaussian (arXiv:2405.20323) on Waymo-NOTR Dynamic32."
+        },
+        {
+          "id": "waymo-rec-mars",
+          "track": "reconstruction",
+          "method": "MARS",
+          "venue": "CICAI 2023",
+          "category": "NeRF-based",
+          "approach": "Instance-aware modular NeRF simulator",
+          "scores": {
+            "full": [
+              28.24,
+              0.866,
+              0.252
+            ],
+            "dynamic": [
+              23.37,
+              0.701
+            ]
+          },
+          "paper": "https://arxiv.org/abs/2405.20323",
+          "code": "",
+          "source": "https://arxiv.org/abs/2405.20323",
+          "sourceLabel": "S3Gaussian · Table 1",
+          "added": false,
+          "note": "Reported in S3Gaussian (arXiv:2405.20323) on Waymo-NOTR Dynamic32."
+        },
+        {
+          "id": "waymo-rec-emernerf",
+          "track": "reconstruction",
+          "method": "EmerNeRF",
+          "venue": "ICLR 2024",
+          "category": "Self-Supervised NeRF",
+          "approach": "Emergent static-dynamic spatial-temporal decomposition",
+          "scores": {
+            "full": [
+              28.16,
+              0.806,
+              0.228
+            ],
+            "dynamic": [
+              24.32,
+              0.682
+            ]
+          },
+          "paper": "https://arxiv.org/abs/2405.20323",
+          "code": "",
+          "source": "https://arxiv.org/abs/2405.20323",
+          "sourceLabel": "S3Gaussian · Table 1",
+          "added": false,
+          "note": "Reported in S3Gaussian (arXiv:2405.20323) on Waymo-NOTR Dynamic32."
+        },
+        {
+          "id": "waymo-nvs-3dgs",
+          "track": "nvs",
+          "method": "3DGS",
+          "paperTitle": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+          "venue": "ACM TOG (SIGGRAPH 2023)",
+          "category": "Static 3DGS",
+          "approach": "Explicit anisotropic 3D Gaussians baseline",
+          "scores": {
+            "full": [
+              25.14,
+              0.813,
+              0.165
+            ],
+            "dynamic": [
+              20.48,
+              0.753
+            ]
+          },
+          "paper": "https://arxiv.org/abs/2308.04079",
+          "code": "https://github.com/graphdeco-inria/gaussian-splatting",
+          "source": "https://arxiv.org/abs/2405.20323",
+          "sourceLabel": "S3Gaussian · Table 1",
+          "added": false,
+          "note": "Reported in S3Gaussian (arXiv:2405.20323) on Waymo-NOTR Dynamic32 NVS."
+        },
+        {
+          "id": "waymo-nvs-mars",
+          "track": "nvs",
+          "method": "MARS",
+          "venue": "CICAI 2023",
+          "category": "NeRF-based",
+          "approach": "Instance-aware modular NeRF simulator",
+          "scores": {
+            "full": [
+              26.61,
+              0.796,
+              0.305
+            ],
+            "dynamic": [
+              22.21,
+              0.697
+            ]
+          },
+          "paper": "https://arxiv.org/abs/2405.20323",
+          "code": "",
+          "source": "https://arxiv.org/abs/2405.20323",
+          "sourceLabel": "S3Gaussian · Table 1",
+          "added": false,
+          "note": "Reported in S3Gaussian (arXiv:2405.20323) on Waymo-NOTR Dynamic32 NVS."
+        },
+        {
+          "id": "waymo-nvs-emernerf",
+          "track": "nvs",
+          "method": "EmerNeRF",
+          "venue": "ICLR 2024",
+          "category": "Self-Supervised NeRF",
+          "approach": "Emergent static-dynamic spatial-temporal decomposition",
+          "scores": {
+            "full": [
+              25.14,
+              0.747,
+              0.313
+            ],
+            "dynamic": [
+              23.49,
+              0.66
+            ]
+          },
+          "paper": "https://arxiv.org/abs/2405.20323",
+          "code": "",
+          "source": "https://arxiv.org/abs/2405.20323",
+          "sourceLabel": "S3Gaussian · Table 1",
+          "added": false,
+          "note": "Reported in S3Gaussian (arXiv:2405.20323) on Waymo-NOTR Dynamic32 NVS."
+        }
+      ]
+    },
+    {
+      "id": "feedforward-3dgs",
+      "label": "RealEstate10K and ACID Feed-Forward 3DGS",
+      "short": "Feed-Forward 3DGS",
+      "title": "Performance Comparisons on RealEstate10K and ACID Feed-Forward 3DGS",
+      "description": "Two-view generalizable feed-forward 3DGS on RealEstate10K and zero-shot cross-dataset generalization on ACID.",
+      "table": "DepthSplat",
+      "columns": [
+        {
+          "id": "re10k",
+          "label": "RealEstate10K (PSNR / SSIM / LPIPS)"
+        },
+        {
+          "id": "acid",
+          "label": "ACID Zero-Shot (PSNR / SSIM / LPIPS)"
+        }
+      ],
+      "metrics": [
+        "psnr",
+        "ssim",
+        "lpips"
+      ],
+      "rows": [
+        {
+          "id": "ff-pixelsplat",
+          "method": "pixelSplat",
+          "paperTitle": "pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction",
+          "venue": "CVPR 2024 (Oral)",
+          "category": "Epipolar Transformer",
+          "approach": "Epipolar attention + probabilistic depth sampling",
+          "scores": {
+            "re10k": [
+              25.89,
+              0.858,
+              0.142
+            ],
+            "acid": [
+              27.64,
+              0.83,
+              0.16
+            ]
+          },
+          "paper": "https://arxiv.org/abs/2312.12337",
+          "code": "https://github.com/dcharatan/pixelsplat",
+          "source": "https://arxiv.org/abs/2410.13862",
+          "sourceLabel": "DepthSplat",
+          "added": false,
+          "note": "Baseline comparison reported in DepthSplat (arXiv:2410.13862)."
+        },
+        {
+          "id": "ff-mvsplat",
+          "method": "MVSplat",
+          "paperTitle": "MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images",
+          "venue": "ECCV 2024 (Oral)",
+          "category": "Cost Volume",
+          "approach": "Multi-view cost volume + cross-view attention",
+          "scores": {
+            "re10k": [
+              26.39,
+              0.869,
+              0.128
+            ],
+            "acid": [
+              28.15,
+              0.841,
+              0.147
+            ]
+          },
+          "paper": "https://arxiv.org/abs/2403.14627",
+          "code": "https://github.com/donydchen/mvsplat",
+          "source": "https://arxiv.org/abs/2410.13862",
+          "sourceLabel": "DepthSplat",
+          "added": false,
+          "note": "Reported in MVSplat / DepthSplat comparative tables."
+        }
+      ]
+    },
+    {
+      "id": "lerf-open-vocab",
+      "label": "LERF Open-Vocabulary 3D Understanding",
+      "short": "LERF Open-Vocab",
+      "title": "Performance Comparisons on LERF Open-Vocabulary 3D Understanding",
+      "description": "Open-vocabulary 3D object localization accuracy and semantic segmentation mIoU on the LERF dataset across two isolated evaluation protocols.",
+      "table": "LangSplat Table 1",
+      "tracks": [
+        {
+          "id": "lerf-loc-langsplat",
+          "label": "Localization Accuracy (%) — LangSplat Table 1 Protocol"
+        }
+      ],
+      "columns": [
+        {
+          "id": "ramen",
+          "label": "Ramen"
+        },
+        {
+          "id": "figurines",
+          "label": "Figurines"
+        },
+        {
+          "id": "teatime",
+          "label": "Teatime"
+        },
+        {
+          "id": "kitchen",
+          "label": "Waldo Kitchen"
+        },
+        {
+          "id": "overall",
+          "label": "Overall"
+        }
+      ],
+      "metrics": [
+        "acc",
+        "miou"
+      ],
+      "rows": [
+        {
+          "id": "lerf-t1-lseg",
+          "track": "lerf-loc-langsplat",
+          "method": "LSeg",
+          "venue": "ICLR 2022",
+          "category": "Loc Acc (%)",
+          "approach": "2D language-driven semantic segmentation baseline",
+          "scores": {
+            "ramen": 7.0,
+            "figurines": 7.6,
+            "teatime": 21.7,
+            "kitchen": 29.9,
+            "overall": 16.6
+          },
+          "paper": "https://arxiv.org/abs/2312.16084",
+          "code": "",
+          "source": "https://arxiv.org/abs/2312.16084",
+          "sourceLabel": "LangSplat · Table 1",
+          "added": false,
+          "note": "Reported in LangSplat Table 1."
+        },
+        {
+          "id": "lerf-t1-lerf",
+          "track": "lerf-loc-langsplat",
+          "method": "LERF",
+          "paperTitle": "LERF: Language Embedded Radiance Fields",
+          "venue": "ICCV 2023",
+          "category": "Loc Acc (%)",
+          "approach": "Language embedded NeRF",
+          "scores": {
+            "ramen": 28.2,
+            "figurines": 38.6,
+            "teatime": 45.0,
+            "kitchen": 37.9,
+            "overall": 37.4
+          },
+          "paper": "https://arxiv.org/abs/2303.09553",
+          "code": "https://github.com/kerrj/lerf",
+          "source": "https://arxiv.org/abs/2312.16084",
+          "sourceLabel": "LangSplat · Table 1",
+          "added": false,
+          "note": "Reported in LangSplat Table 1."
+        },
+        {
+          "id": "lerf-t1-langsplat",
+          "track": "lerf-loc-langsplat",
+          "method": "LangSplat",
+          "paperTitle": "LangSplat: 3D Language Gaussian Splatting",
+          "venue": "CVPR 2024",
+          "category": "Loc Acc (%)",
+          "approach": "Hierarchical SAM + scene-wise language autoencoder on 3DGS",
+          "scores": {
+            "ramen": 51.2,
+            "figurines": 44.7,
+            "teatime": 65.1,
+            "kitchen": 44.5,
+            "overall": 51.4
+          },
+          "paper": "https://arxiv.org/abs/2312.16084",
+          "code": "https://github.com/minghanqin/LangSplat",
+          "source": "https://arxiv.org/abs/2312.16084",
+          "sourceLabel": "LangSplat · Table 1",
+          "added": true,
+          "note": "Self-reported in LangSplat Table 1."
+        }
+      ]
+    },
+    {
+      "id": "rlbench-manipulation",
+      "label": "RLBench Multi-Task Manipulation",
+      "short": "RLBench (10 Tasks)",
+      "title": "Performance Comparisons on RLBench Multi-Task Manipulation",
+      "description": "Language-conditioned multi-task manipulation average success rate (%) across 10 RLBench tasks (166 variations).",
+      "table": "ManiGaussian Table 1",
+      "columns": [
+        {
+          "id": "avg_sr",
+          "label": "Avg. Success Rate (%)"
+        }
+      ],
+      "metrics": [
+        "success_rate"
+      ],
+      "rows": [
+        {
+          "id": "rl-peract",
+          "method": "PerAct",
+          "venue": "CoRL 2022",
+          "category": "Voxel-based",
+          "approach": "Voxelized 3D Perceiver IO behavior cloning",
+          "scores": {
+            "avg_sr": 18.0
+          },
+          "paper": "https://arxiv.org/abs/2403.08321",
+          "code": "",
+          "source": "https://arxiv.org/abs/2403.08321",
+          "sourceLabel": "ManiGaussian · Table 1",
+          "added": false,
+          "note": "Baseline comparison reported in ManiGaussian (arXiv:2403.08321)."
+        },
+        {
+          "id": "rl-gnfactor",
+          "method": "GNFactor",
+          "paperTitle": "GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields",
+          "venue": "CoRL 2023 (Oral)",
+          "category": "NeRF-based",
+          "approach": "Generalizable neural feature fields for robotic manipulation",
+          "scores": {
+            "avg_sr": 28.3
+          },
+          "paper": "https://arxiv.org/abs/2308.16891",
+          "code": "https://github.com/YanjieZe/GNFactor",
+          "source": "https://arxiv.org/abs/2403.08321",
+          "sourceLabel": "ManiGaussian · Table 1",
+          "added": false,
+          "note": "Baseline comparison reported in ManiGaussian (arXiv:2403.08321)."
+        },
+        {
+          "id": "rl-manigaussian",
+          "method": "ManiGaussian",
+          "paperTitle": "ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation",
+          "venue": "ECCV 2024",
+          "category": "Dynamic 3DGS + World Model",
+          "approach": "Dynamic Gaussian Splatting + Gaussian World Model future prediction",
+          "scores": {
+            "avg_sr": 44.8
+          },
+          "paper": "https://arxiv.org/abs/2403.08321",
+          "code": "https://github.com/guanxinglu/ManiGaussian",
+          "source": "https://arxiv.org/abs/2403.08321",
+          "sourceLabel": "ManiGaussian · Table 1",
+          "added": true,
+          "note": "Self-reported in ManiGaussian (arXiv:2403.08321) across 10 RLBench tasks."
+        }
+      ]
+    }
+  ],
+  "metrics": {
+    "psnr": {
+      "label": "PSNR (dB)",
+      "direction": "higher"
+    },
+    "ssim": {
+      "label": "SSIM",
+      "direction": "higher"
+    },
+    "lpips": {
+      "label": "LPIPS",
+      "direction": "lower"
+    },
+    "fid": {
+      "label": "FID",
+      "direction": "lower"
+    },
+    "acc": {
+      "label": "Localization Accuracy (%)",
+      "direction": "higher"
+    },
+    "miou": {
+      "label": "mIoU (%)",
+      "direction": "higher"
+    },
+    "success_rate": {
+      "label": "Success Rate (%)",
+      "direction": "higher"
+    }
+  },
+  "notes": [
+    "All benchmark numbers are sourced directly from the cited papers documented in data/SOURCES.md.",
+    "README benchmark tables are rendered deterministically from data/catalog.json using scripts/sync_catalog.py."
+  ],
+  "updates": [
+    {
+      "date": "2026-11-18",
+      "summary": "Initial baseline release (2023-2024) with 28 curated papers and 14 benchmark results across 4 benchmark families."
+    }
+  ]
+}
