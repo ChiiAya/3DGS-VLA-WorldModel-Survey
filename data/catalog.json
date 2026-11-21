@@ -1,9 +1,233 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-18",
-  "repository": "https://github.com/user/3DGS-VLA-WorldModel-Survey",
-  "paperCount": 42,
+  "updated": "2026-11-21",
+  "repository": "https://github.com/ChiiAya/3DGS-VLA-WorldModel-Survey",
+  "paperCount": 111,
   "papers": [
+    {
+      "title": "Robot-Aligned 3D Gaussian Splatting for Precise Reaching with Wrist-Camera VLA Policies",
+      "authors": "Zuoxu Wang, Xiao Liang",
+      "venue": "arXiv 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2610.35626",
+      "code": "https://001-wang.github.io/PrecisionReach-GS/"
+    },
+    {
+      "title": "Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting",
+      "authors": "Huosen Ou, Dongni Song, Yuncong Wang, Tao Zhou, Yiding Ji",
+      "venue": "ACM MM 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2608.10756",
+      "code": "https://github.com/taozh2017/AM2ES"
+    },
+    {
+      "title": "ManiSplat: Manipulation Trajectory Synthesis from Monocular Video via Decoupled 3D Gaussian Splatting",
+      "authors": "Wenhao Hu, Haonan Zhou, Liu Liu, Yun Du, Xinjie Wang, Ziang Li, et al.",
+      "venue": "IJCAI 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2606.10645",
+      "code": ""
+    },
+    {
+      "title": "Video2Robo: 3DGS-based Synthetic Data from One Video Enables Scalable Robot Learning",
+      "authors": "Yinan Deng, Kejia Hu, Ye Chen, Jianyu Dou, Jiahui Wang, Jingyu Zhao, et al.",
+      "venue": "CVPR 2026",
+      "year": 2026,
+      "paper": "https://openaccess.thecvf.com/content/CVPR2026/html/Deng_Video2Robo_3DGS-based_Synthetic_Data_from_One_Video_Enables_Scalable_Robot_CVPR_2026_paper.html",
+      "code": ""
+    },
+    {
+      "title": "Uncertainty-Aware Gaussian Map for Vision-Language Navigation",
+      "authors": "Jianzhe Gao, Rui Liu, Yuxuan Xu, Tongtong Cao, Yingxue Zhang, Zhanguang Zhang, et al.",
+      "venue": "ICLR 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2605.26503",
+      "code": ""
+    },
+    {
+      "title": "World Action Models: The Next Frontier in Embodied AI",
+      "authors": "Siyin Wang, Junhao Shi, Zhaoyang Fu, Xinzhe He, Feihong Liu, Chenchen Yang, Yikang Zhou, Zhaoye Fei, Jingjing Gong, Jinlan Fu, Mike Zheng Shou, Xuanjing Huang, Xipeng Qiu, Yu-Gang Jiang",
+      "venue": "arXiv 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2605.12090",
+      "code": "https://github.com/openmoss/Awesome-WAM"
+    },
+    {
+      "title": "Embody4D: A Generalist Data Engine for Embodied 4D World Modeling",
+      "authors": "Peiyan Tu, Hanxin Zhu, Jingwen Sun, Shaojie Ren, Cong Wang, Yuyan Xu, Jiayi Luo, Xiaoqian Cheng, et al.",
+      "venue": "arXiv 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2605.01799",
+      "code": "https://github.com/peiyantu/Embody4D"
+    },
+    {
+      "title": "Multi-Scale Gaussian-Language Map for Zero-shot Embodied Navigation and Reasoning",
+      "authors": "Sixian Zhang, Yiyao Wang, Xinhang Song, Keming Zhang, Zijian Xu, Shuqiang Jiang",
+      "venue": "CVPR 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2605.01736",
+      "code": "https://github.com/sx-zhang/GLMap"
+    },
+    {
+      "title": "DLWM: Dual Latent World Models enable Holistic Gaussian-centric Pre-training in Autonomous Driving",
+      "authors": "Yiyao Zhu, Ying Xue, Haiming Zhang, Guangfeng Jiang, Wending Zhou, Xu Yan, et al.",
+      "venue": "CVPR 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2604.00969",
+      "code": ""
+    },
+    {
+      "title": "ReLaGS: Relational Language Gaussian Splatting",
+      "authors": "Yaxu Xie, Abdalla Arafa, Alireza Javanmardi, Christen Millerdurai, Jia Cheng Hu, Shaoxiang Wang, et al.",
+      "venue": "CVPR 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2603.17605",
+      "code": "https://github.com/dfki-av/ReLaGS"
+    },
+    {
+      "title": "GST-VLA: Structured Gaussian Spatial Tokens for 3D Depth-Aware Vision-Language-Action Models",
+      "authors": "Md Selim Sarowar, Omer Tariq, Sungho Kim",
+      "venue": "arXiv 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2603.09079",
+      "code": ""
+    },
+    {
+      "title": "EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding",
+      "authors": "Seungjun Lee, Zihan Wang, Yunsong Wang, Gim Hee Lee",
+      "venue": "CVPR 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2603.04254",
+      "code": "https://github.com/0nandon/EmbodiedSplat"
+    },
+    {
+      "title": "Zero-Shot Robotic Manipulation via 3D Gaussian Splatting-Enhanced Multimodal Retrieval-Augmented Generation",
+      "authors": "Zhipeng Xie, Jian Gong, Xinfeng Tan, Zhibin Zhang, Yuan Xie",
+      "venue": "arXiv 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2603.00500",
+      "code": ""
+    },
+    {
+      "title": "FlowHOI: Flow-based Semantics-Grounded Generation of Hand-Object Interactions for Dexterous Robot Manipulation",
+      "authors": "Huajian Zeng, Lingyun Chen, Jiaqi Yang, Yuantai Zhang, Fan Shi, Peidong Liu, Xingxing Zuo",
+      "venue": "arXiv 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2602.13444",
+      "code": ""
+    },
+    {
+      "title": "Learning Physics-Grounded 4D Dynamics with Neural Gaussian Force Fields",
+      "authors": "Shiqian Li, Ruihong Shen, Junfeng Ni, Chang Pan, Chi Zhang, Yixin Zhu",
+      "venue": "ICLR 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2602.00148",
+      "code": ""
+    },
+    {
+      "title": "HDGS: Hierarchical Dynamic Gaussian Splatting for Urban Driving Scenes",
+      "authors": "Fudong Ge, Jin Gao, Hanshi Wang, Yiwei Zhang, Ke Wang, Weiming Hu, et al.",
+      "venue": "AAAI 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1609/aaai.v40i6.42419",
+      "code": ""
+    },
+    {
+      "title": "A Hierarchical Onboard Vision-Language-Navigation Framework for Aerial Robots in Complex Environments",
+      "authors": "Yuze Wu, Mo Zhu, Xingxing Li, Yuheng Du, Zhaoqi Wang, Yuxin Fan, et al.",
+      "venue": "IEEE T-RO 2026",
+      "year": 2026,
+      "paper": "https://doi.org/10.1109/TRO.2026.3754505",
+      "code": ""
+    },
+    {
+      "title": "GeoPredict: Leveraging Predictive Kinematics and 3D Gaussian Geometry for Precise VLA Manipulation",
+      "authors": "Jingjing Qian, Boyao Han, Chen Shi, Lei Xiao, Long Yang, Shaoshuai Shi, et al.",
+      "venue": "CVPR 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2512.16811",
+      "code": ""
+    },
+    {
+      "title": "TGSFormer: Scalable Temporal Gaussian Splatting for Embodied Semantic Scene Completion",
+      "authors": "Rui Qian, Haozhi Cao, Tianchen Deng, Tianxin Hu, Weixiang Guo, Shenghai Yuan, et al.",
+      "venue": "CVPR 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2512.00300",
+      "code": ""
+    },
+    {
+      "title": "PhysGS: Bayesian-Inferred Gaussian Splatting for Physical Property Estimation",
+      "authors": "Samarth Chopra, Jing Liang, Gershom Seneviratne, Dinesh Manocha",
+      "venue": "CVPR 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2511.18570",
+      "code": ""
+    },
+    {
+      "title": "GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation",
+      "authors": "Guangqi Jiang, Haoran Chang, Ri-Zhao Qiu, Yutong Liang, Mazeyu Ji, Jiyue Zhu, Zhao Dong, Xueyan Zou, Xiaolong Wang",
+      "venue": "ICRA 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2510.20813",
+      "code": "https://github.com/luccachiang/GSWorld"
+    },
+    {
+      "title": "WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving",
+      "authors": "Ziyue Zhu, Zhanqian Wu, Zhenxin Zhu, Lijun Zhou, Haiyang Sun, Bing Wang, et al.",
+      "venue": "ICLR 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2509.23402",
+      "code": "https://github.com/xiaomi-research/worldsplat"
+    },
+    {
+      "title": "A Survey on 3D Gaussian Splatting Applications: Segmentation, Editing, and Generation",
+      "authors": "Shuting He, Peilin Ji, Yitong Yang, Changshuo Wang, Jiayi Ji, Yinglin Wang, et al.",
+      "venue": "IEEE TPAMI 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2508.09977",
+      "code": ""
+    },
+    {
+      "title": "From Seeing to Experiencing: Scaling Navigation Foundation Models with Reinforcement Learning",
+      "authors": "Honglin He, Yukai Ma, Brad Squicciarini, Wayne Wu, Bolei Zhou",
+      "venue": "ICLR 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2507.22028",
+      "code": "https://github.com/VAIL-UCLA/S2E"
+    },
+    {
+      "title": "GAF: Gaussian Action Field as a 4D Representation for Dynamic World Modeling in Robotic Manipulation",
+      "authors": "Ying Chai, Litao Deng, Ruizhi Shao, Jiajun Zhang, Kangchen Lv, Liangjun Xing, Xiang Li, Hongwen Zhang, Yebin Liu",
+      "venue": "ICRA 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2506.14135",
+      "code": "https://github.com/chaiying1/GAF"
+    },
+    {
+      "title": "Learning high-fidelity robot self-model with articulated 3D Gaussian splatting",
+      "authors": "Kejun Hu, Peng Yu, Ning Tan",
+      "venue": "IJRR 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2503.05398",
+      "code": ""
+    },
+    {
+      "title": "Neural Fields and 3D Gaussian Splatting in Robotics: A Survey",
+      "authors": "Muhammad Zubair Irshad, Mauro Comi, Yen-Chen Lin, Nick Heppert, Abhinav Valada, Rares Ambrus, et al.",
+      "venue": "IEEE T-RO 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2410.20220",
+      "code": ""
+    },
+    {
+      "title": "How NeRFs and 3-D Gaussian Splatting Are Reshaping SLAM: A Survey",
+      "authors": "Fabio Tosi, Youmin Zhang, Ziren Gong, Erik Sandström, Stefano Mattoccia, Martin R. Oswald, et al.",
+      "venue": "IEEE T-RO 2026",
+      "year": 2026,
+      "paper": "https://arxiv.org/abs/2402.13255",
+      "code": ""
+    },
     {
       "title": "VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments",
       "authors": "Yuze Wu, Mo Zhu, Xingxing Li, Yuheng Du, Yuxin Fan, Wenjun Li, Zhichao Han, Xin Zhou, Fei Gao",
@@ -19,6 +243,46 @@
       "year": 2025,
       "paper": "https://arxiv.org/abs/2511.19861",
       "code": "https://giga-world-0.github.io/"
+    },
+    {
+      "title": "A Step Toward World Models: A Survey on Robotic Manipulation",
+      "authors": "Peng-Fei Zhang, Yi Cheng, Heng Shen, et al.",
+      "venue": "arXiv 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2511.02097",
+      "code": ""
+    },
+    {
+      "title": "GauDP: Reinventing Multi-Agent Collaboration through Gaussian-Image Synergy in Diffusion Policies",
+      "authors": "Ziye Wang, Li Kang, Yiran Qin, Jiahua Ma, Zhanglin Peng, Lei Bai, et al.",
+      "venue": "NeurIPS 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2511.00998",
+      "code": "https://ziyeeee.github.io/gaudp.io"
+    },
+    {
+      "title": "VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting",
+      "authors": "Hoonhee Cho, Jae-Young Kang, Giwon Lee, Hyemin Yang, Heejun Park, Seokwoo Jung, et al.",
+      "venue": "NeurIPS 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2510.23205",
+      "code": "https://github.com/mickeykang16/VR-Drive"
+    },
+    {
+      "title": "3D Gaussian Map with Open-Set Semantic Grouping for Vision-Language Navigation",
+      "authors": "Jianzhe Gao, Rui Liu, Wenguan Wang",
+      "venue": "ICCV 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2605.26500",
+      "code": ""
+    },
+    {
+      "title": "EmbodiedSplat: Personalized Real-to-Sim-to-Real Navigation with Gaussian Splats from a Mobile Device",
+      "authors": "Gunjan Chhablani, Xiaomeng Ye, Muhammad Zubair Irshad, Zsolt Kira",
+      "venue": "ICCV 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2509.17430",
+      "code": ""
     },
     {
       "title": "RealMirror: A Comprehensive, Open-Source Vision-Language-Action Platform for Embodied AI",
@@ -37,12 +301,28 @@
       "code": "https://mystorm16.github.io/fastvggt/"
     },
     {
+      "title": "DrivingGaussian++: Towards Realistic Reconstruction and Controllable Editing for Surrounding Dynamic Autonomous Driving Scenes",
+      "authors": "Yajiao Xiong, et al.",
+      "venue": "arXiv 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2508.20965",
+      "code": "https://github.com/vdigpku/DrivingGaussian_plus"
+    },
+    {
       "title": "GWM: Towards Scalable Gaussian World Models for Robotic Manipulation",
       "authors": "Guanxing Lu, Baoxiong Jia, Puhao Li, Yixin Chen, Ziwei Wang, Yansong Tang, Siyuan Huang",
       "venue": "ICCV 2025",
       "year": 2025,
       "paper": "https://arxiv.org/abs/2508.17600",
       "code": "https://gaussian-world-model.github.io/"
+    },
+    {
+      "title": "IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation",
+      "authors": "Wenxuan Guo, Xiuwei Xu, Hang Yin, Ziwei Wang, Jianjiang Feng, Jie Zhou, et al.",
+      "venue": "ICCV 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2508.00823",
+      "code": ""
     },
     {
       "title": "π³: Permutation-Equivariant Visual Geometry Learning",
@@ -61,12 +341,44 @@
       "code": "https://langsplat-v2.github.io"
     },
     {
+      "title": "Spatial-Temporal Aware Visuomotor Diffusion Policy Learning",
+      "authors": "Zhenyang Liu, et al.",
+      "venue": "ICCV 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2507.06710",
+      "code": ""
+    },
+    {
+      "title": "RoboPearls: Editable Video Simulation for Robot Manipulation",
+      "authors": "Tao Tang, Likui Zhang, Youpeng Wen, Kaidong Zhang, Jia-Wang Bian, Xia Zhou, et al.",
+      "venue": "ICCV 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2506.22756",
+      "code": ""
+    },
+    {
       "title": "ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model",
       "authors": "Tengbo Yu, Guanxing Lu, Zaijia Yang, Haoyuan Deng, Season Si Chen, Jiwen Lu, Wenbo Ding, Guoqiang Hu, Yansong Tang, Ziwei Wang",
       "venue": "IROS 2025",
       "year": 2025,
       "paper": "https://arxiv.org/abs/2506.19842",
       "code": "https://github.com/yangzaijia/ManiGaussian_Bimanual"
+    },
+    {
+      "title": "HoliGS: Holistic Gaussian Splatting for Embodied View Synthesis",
+      "authors": "Xiaoyuan Wang, Yizhou Zhao, Botao Ye, Xiaojun Shan, Weijie Lyu, Lu Qi, et al.",
+      "venue": "NeurIPS 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2506.19291",
+      "code": ""
+    },
+    {
+      "title": "Chain of Semantics Programming in 3D Gaussian Splatting Representation for 3D Vision Grounding",
+      "authors": "Jiaxin Shi, Mingyue Xiang, Hao Sun, Yixuan Huang, Zhi Weng",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://doi.org/10.1109/CVPR52734.2025.02287",
+      "code": ""
     },
     {
       "title": "AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views",
@@ -85,12 +397,52 @@
       "code": "https://github.com/UMass-Embodied-AGI/TesserAct"
     },
     {
+      "title": "DRAWER: Digital Reconstruction and Articulation With Environment Realism",
+      "authors": "Hongchi Xia, Entong Su, Marius Memmel, Arhan Jain, Raymond Yu, Numfor Mbiziwo-Tiapo, et al.",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2504.15278",
+      "code": ""
+    },
+    {
+      "title": "EmbodiedOcc++: Boosting Embodied 3D Occupancy Prediction with Plane Regularization and Uncertainty Sampler",
+      "authors": "Hao Wang, Xiaobao Wei, Xiaoan Zhang, Jianing Li, Chengyu Bai, Ying Li, et al.",
+      "venue": "ACM MM 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2504.09540",
+      "code": "https://github.com/PKUHaoWang/EmbodiedOcc2"
+    },
+    {
+      "title": "ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning",
+      "authors": "Zhenyang Liu, Yikai Wang, Sixiao Zheng, Tongying Pan, Longfei Liang, Yanwei Fu, et al.",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2503.23297",
+      "code": ""
+    },
+    {
+      "title": "PartRM: Modeling Part-Level Dynamics with Large Cross-State Reconstruction Model",
+      "authors": "Mingju Gao, Yike Pan, Huan-ang Gao, Zongzheng Zhang, Wenyi Li, Hao Dong, et al.",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2503.19913",
+      "code": "https://github.com/GasaiYU/PartRM"
+    },
+    {
       "title": "ReconDreamer++: Harmonizing Generative and Reconstructive Models for Driving Scene Representation",
       "authors": "Guosheng Zhao, Xiaofeng Wang, Chaojun Ni, Zheng Zhu, Wenkang Qin, Guan Huang, Xingang Wang",
       "venue": "arXiv 2025",
       "year": 2025,
       "paper": "https://arxiv.org/abs/2503.18438",
       "code": "https://recondreamer-plus.github.io/"
+    },
+    {
+      "title": "M3: 3D-Spatial MultiModal Memory",
+      "authors": "Xueyan Zou, Yuchen Song, Ri-Zhao Qiu, Xuanbin Peng, Jianglong Ye, Sifei Liu, et al.",
+      "venue": "ICLR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2503.16413",
+      "code": ""
     },
     {
       "title": "VGGT: Visual Geometry Grounded Transformer",
@@ -101,6 +453,126 @@
       "code": "https://github.com/facebookresearch/vggt"
     },
     {
+      "title": "UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting",
+      "authors": "Haoyuan Li, Yanpeng Zhou, Tao Tang, Jifei Song, Yihan Zeng, Michael Kampffmeyer, et al.",
+      "venue": "ICLR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2502.17860",
+      "code": ""
+    },
+    {
+      "title": "Self-Correcting Robot Manipulation via Gaussian-Splatted Foresight",
+      "authors": "Shaohui Pan, Yong Xu, Ruotao Xu, Zihan Zhou, Si Wu, Zhuliang Yu",
+      "venue": "AAAI 2025",
+      "year": 2025,
+      "paper": "https://doi.org/10.1609/aaai.v39i25.34866",
+      "code": ""
+    },
+    {
+      "title": "ActiveGAMER: Active GAussian Mapping through Efficient Rendering",
+      "authors": "Liyan Chen, Huangying Zhan, Kevin Chen, Xiangyu Xu, Qingan Yan, Changjiang Cai, et al.",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2501.06897",
+      "code": "https://github.com/oppo-us-research/ActiveGAMER"
+    },
+    {
+      "title": "Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation",
+      "authors": "Ziyang Xie, Zhizheng Liu, Zhenghao Peng, Wayne Wu, Bolei Zhou",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2501.06693",
+      "code": ""
+    },
+    {
+      "title": "EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation",
+      "authors": "Siyuan Huang, Liliang Chen, Pengfei Zhou, Shengcong Chen, Yue Liao, Zhengkai Jiang, et al.",
+      "venue": "NeurIPS 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2501.01895",
+      "code": ""
+    },
+    {
+      "title": "Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination",
+      "authors": "Leonardo Barcellona, Andrii Zadaianchuk, Davide Allegro, Samuele Papa, Stefano Ghidoni, Efstratios Gavves",
+      "venue": "ICLR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2412.14957",
+      "code": ""
+    },
+    {
+      "title": "GaussianWorld: Gaussian World Model for Streaming 3D Occupancy Prediction",
+      "authors": "Sicheng Zuo, Wenzhao Zheng, Yuanhui Huang, Jie Zhou, Jiwen Lu",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2412.10373",
+      "code": "https://github.com/zuosc19/GaussianWorld"
+    },
+    {
+      "title": "GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency",
+      "authors": "Dongyue Lu, Lingdong Kong, Tianxin Huang, Gim Hee Lee",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2412.09511",
+      "code": ""
+    },
+    {
+      "title": "DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving",
+      "authors": "Hao Lu, Tianshuo Xu, Wenzhao Zheng, Yunpeng Zhang, Wei Zhan, Dalong Du, et al.",
+      "venue": "NeurIPS 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2412.09043",
+      "code": ""
+    },
+    {
+      "title": "UniScene: Unified Occupancy-centric Driving Scene Generation",
+      "authors": "Bohan Li, Jiazhe Guo, Hongsi Liu, Yingshuang Zou, Yikang Ding, Xiwu Chen, Hu Zhu, Feiyang Tan, Chi Zhang, Tiancai Wang, et al.",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2412.05435",
+      "code": "https://github.com/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation"
+    },
+    {
+      "title": "6DOPE-GS: Online 6D Object Pose Estimation using Gaussian Splatting",
+      "authors": "Yufeng Jin, Vignesh Prasad, Snehal Jauhri, et al.",
+      "venue": "ICCV 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2412.01543",
+      "code": ""
+    },
+    {
+      "title": "g3D-LF: Generalizable 3D-Language Feature Fields for Embodied Tasks",
+      "authors": "Zihan Wang, Gim Hee Lee",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2411.17030",
+      "code": "https://github.com/MrZihan/g3D-LF"
+    },
+    {
+      "title": "NoPoSplat: No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images",
+      "authors": "Botao Ye, Sifei Liu, Haofei Xu, Xueting Li, Marc Pollefeys, Ming-Hsuan Yang, Songyou Peng",
+      "venue": "ICLR 2025 (Oral)",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2410.24207",
+      "code": "https://github.com/cvg/NoPoSplat"
+    },
+    {
+      "title": "Multimodal LLM Guided Exploration and Active Mapping using Fisher Information",
+      "authors": "Wen Jiang, Boshu Lei, Katrina Ashton, Kostas Daniilidis",
+      "venue": "ICCV 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2410.17422",
+      "code": ""
+    },
+    {
+      "title": "MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes",
+      "authors": "Ruiyuan Gao, Kai Chen, Zhihao Li, Lanqing Hong, Zhenguo Li, Qiang Xu",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2410.14723",
+      "code": "https://github.com/flymin/magicdrive3d"
+    },
+    {
       "title": "DepthSplat: Connecting Gaussian Splatting and Depth",
       "authors": "Haofei Xu, Songyou Peng, Fangjinhua Wang, Hermann Blum, Daniel Barath, Andreas Geiger, Marc Pollefeys",
       "venue": "CVPR 2025",
@@ -109,12 +581,92 @@
       "code": "https://github.com/cvg/depthsplat"
     },
     {
+      "title": "DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation",
+      "authors": "Guosheng Zhao, Chaojun Ni, Xiaofeng Wang, Zheng Zhu, Xueyang Zhang, Yida Wang, Guan Huang, Xinze Chen, Boyuan Wang, Youyi Zhang, Wenjun Mei, Xingang Wang",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2410.13571",
+      "code": "https://github.com/GigaAI-research/DriveDreamer4D"
+    },
+    {
+      "title": "3D Vision-Language Gaussian Splatting",
+      "authors": "Qucheng Peng, Benjamin Planche, Zhongpai Gao, Meng Zheng, Anwesa Choudhuri, Terrence Chen, et al.",
+      "venue": "ICLR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2410.07577",
+      "code": ""
+    },
+    {
+      "title": "Let us Make a Splan: Risk-Aware Trajectory Optimization in a Normalized Gaussian Splat",
+      "authors": "Jonathan B. Michaux, Seth Isaacson, Challen Enninful Adu, Adam Li, Rahul Kashyap Swayampakula, Parker Ewen, et al.",
+      "venue": "IEEE T-RO 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2409.16915",
+      "code": ""
+    },
+    {
+      "title": "DrivingForward: Feed-forward 3D Gaussian Splatting for Driving Scene Reconstruction from Flexible Surround-view Input",
+      "authors": "Qijian Tian, Xin Tan, Yuan Xie, Lizhuang Ma",
+      "venue": "AAAI 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2409.12753",
+      "code": ""
+    },
+    {
+      "title": "SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting",
+      "authors": "Mohammad Nomaan Qureshi, Sparsh Garg, Francisco Yandun, David Held, George Kantor, Abhishesh Silwal",
+      "venue": "ICRA 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2409.10161",
+      "code": "https://splatsim.github.io/"
+    },
+    {
+      "title": "GGS: Generalizable Gaussian Splatting for Lane Switching in Autonomous Driving",
+      "authors": "Huasong Han, Kaixuan Zhou, Xiaoxiao Long, Yusen Wang, Chunxia Xiao",
+      "venue": "AAAI 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2409.02382",
+      "code": ""
+    },
+    {
       "title": "OmniRe: Omni Urban Scene Reconstruction",
       "authors": "Ziyu Chen, Jiawei Yang, Jiahui Huang, Riccardo de Lutio, Janick Martinez Esturo, Boris Ivanovic, et al.",
       "venue": "ICLR 2025 (Spotlight)",
       "year": 2025,
       "paper": "https://arxiv.org/abs/2408.16760",
       "code": "https://github.com/ziyc/drivestudio"
+    },
+    {
+      "title": "WonderWorld: Interactive 3D Scene Generation from a Single Image",
+      "authors": "Hong-Xing Yu, Haoyi Duan, Charles Herrmann, William T. Freeman, Jiajun Wu",
+      "venue": "CVPR 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2406.09394",
+      "code": "https://github.com/KovenYu/WonderWorld"
+    },
+    {
+      "title": "S3Gaussian: Self-Supervised Street Gaussians for Autonomous Driving",
+      "authors": "Nan Huang, Xiaobao Wei, Wenzhao Zheng, Pengju An, Ming Lu, Wei Zhan, Masayoshi Tomizuka, Kurt Keutzer, Shanghang Zhang",
+      "venue": "ICRA 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2405.20323",
+      "code": "https://github.com/nnanhuang/S3Gaussian"
+    },
+    {
+      "title": "GaussNav: Gaussian Splatting for Visual Navigation",
+      "authors": "Xiaohan Lei, Min Wang, Wengang Zhou, Houqiang Li",
+      "venue": "IEEE TPAMI 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2403.11625",
+      "code": ""
+    },
+    {
+      "title": "FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding",
+      "authors": "Xingxing Zuo, Pouya Samangouei, Yunwen Zhou, Yan Di, Mingyang Li",
+      "venue": "IJCV 2025",
+      "year": 2025,
+      "paper": "https://arxiv.org/abs/2401.01970",
+      "code": ""
     },
     {
       "title": "ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration",
@@ -526,6 +1078,58 @@
           "sourceLabel": "S3Gaussian · Table 1",
           "added": false,
           "note": "Reported in S3Gaussian (arXiv:2405.20323) on Waymo-NOTR Dynamic32 NVS."
+        },
+        {
+          "id": "waymo-rec-s3gaussian",
+          "track": "reconstruction",
+          "method": "S3Gaussian",
+          "paperTitle": "S3Gaussian: Self-Supervised Street Gaussians for Autonomous Driving",
+          "venue": "ICRA 2025",
+          "category": "Self-Supervised 4DGS",
+          "approach": "Spatial-temporal hexplane deformation without 3D boxes",
+          "scores": {
+            "full": [
+              31.35,
+              0.911,
+              0.106
+            ],
+            "dynamic": [
+              26.02,
+              0.783
+            ]
+          },
+          "paper": "https://arxiv.org/abs/2405.20323",
+          "code": "https://github.com/nnanhuang/S3Gaussian",
+          "source": "https://arxiv.org/abs/2405.20323",
+          "sourceLabel": "S3Gaussian · Table 1",
+          "added": true,
+          "note": "Self-reported in S3Gaussian (arXiv:2405.20323) on Waymo-NOTR Dynamic32."
+        },
+        {
+          "id": "waymo-nvs-s3gaussian",
+          "track": "nvs",
+          "method": "S3Gaussian",
+          "paperTitle": "S3Gaussian: Self-Supervised Street Gaussians for Autonomous Driving",
+          "venue": "ICRA 2025",
+          "category": "Self-Supervised 4DGS",
+          "approach": "Spatial-temporal hexplane deformation without 3D boxes",
+          "scores": {
+            "full": [
+              27.44,
+              0.857,
+              0.137
+            ],
+            "dynamic": [
+              22.92,
+              0.68
+            ]
+          },
+          "paper": "https://arxiv.org/abs/2405.20323",
+          "code": "https://github.com/nnanhuang/S3Gaussian",
+          "source": "https://arxiv.org/abs/2405.20323",
+          "sourceLabel": "S3Gaussian · Table 1",
+          "added": true,
+          "note": "Self-reported in S3Gaussian (arXiv:2405.20323) on Waymo-NOTR Dynamic32 NVS."
         }
       ]
     },
@@ -603,6 +1207,32 @@
           "sourceLabel": "DepthSplat",
           "added": false,
           "note": "Reported in MVSplat / DepthSplat comparative tables."
+        },
+        {
+          "id": "ff-depthsplat",
+          "method": "DepthSplat",
+          "paperTitle": "DepthSplat: Connecting Gaussian Splatting and Depth",
+          "venue": "CVPR 2025",
+          "category": "Monocular Depth + MVS",
+          "approach": "Pre-trained monocular depth features + multi-view matching",
+          "scores": {
+            "re10k": [
+              27.47,
+              0.889,
+              0.114
+            ],
+            "acid": [
+              28.37,
+              0.847,
+              0.141
+            ]
+          },
+          "paper": "https://arxiv.org/abs/2410.13862",
+          "code": "https://github.com/cvg/depthsplat",
+          "source": "https://arxiv.org/abs/2410.13862",
+          "sourceLabel": "DepthSplat",
+          "added": true,
+          "note": "Self-reported in DepthSplat (arXiv:2410.13862)."
         }
       ]
     },
@@ -617,6 +1247,10 @@
         {
           "id": "lerf-loc-langsplat",
           "label": "Localization Accuracy (%) — LangSplat Table 1 Protocol"
+        },
+        {
+          "id": "lerf-langsplat-v2",
+          "label": "Localization Accuracy & Semantic Segmentation mIoU (%) — LangSplatV2 Table 2 Protocol"
         }
       ],
       "columns": [
@@ -710,6 +1344,50 @@
           "sourceLabel": "LangSplat · Table 1",
           "added": true,
           "note": "Self-reported in LangSplat Table 1."
+        },
+        {
+          "id": "lerf-t2-langsplatv2-loc",
+          "track": "lerf-langsplat-v2",
+          "method": "LangSplatV2",
+          "paperTitle": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
+          "venue": "NeurIPS 2025",
+          "category": "Loc Acc (%)",
+          "approach": "3D sparse coefficient field over global dictionary (384.6-476.2 FPS)",
+          "scores": {
+            "ramen": 74.7,
+            "figurines": 82.1,
+            "teatime": 93.2,
+            "kitchen": 86.4,
+            "overall": 84.1
+          },
+          "paper": "https://arxiv.org/abs/2507.07136",
+          "code": "https://langsplat-v2.github.io",
+          "source": "https://arxiv.org/abs/2507.07136",
+          "sourceLabel": "LangSplatV2 · Table 2",
+          "added": true,
+          "note": "Localization accuracy reported in LangSplatV2 Table 2."
+        },
+        {
+          "id": "lerf-t2-langsplatv2-miou",
+          "track": "lerf-langsplat-v2",
+          "method": "LangSplatV2",
+          "paperTitle": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
+          "venue": "NeurIPS 2025",
+          "category": "Seg mIoU (%)",
+          "approach": "3D sparse coefficient field over global dictionary",
+          "scores": {
+            "ramen": 51.8,
+            "figurines": 56.4,
+            "teatime": 72.2,
+            "kitchen": 59.1,
+            "overall": 59.9
+          },
+          "paper": "https://arxiv.org/abs/2507.07136",
+          "code": "https://langsplat-v2.github.io",
+          "source": "https://arxiv.org/abs/2507.07136",
+          "sourceLabel": "LangSplatV2 · Table 2",
+          "added": true,
+          "note": "Semantic segmentation mIoU reported in LangSplatV2 Table 2."
         }
       ]
     },
@@ -781,6 +1459,127 @@
           "note": "Self-reported in ManiGaussian (arXiv:2403.08321) across 10 RLBench tasks."
         }
       ]
+    },
+    {
+      "id": "waymo-novel-traj",
+      "label": "Waymo Novel Trajectory Synthesis",
+      "short": "Waymo Novel Traj",
+      "title": "Performance Comparisons on Waymo Novel Trajectory Synthesis",
+      "description": "Lane-change novel trajectory evaluation on Waymo Open Dataset comparing baseline 4DGS representations with world-model-augmented training.",
+      "table": "DriveDreamer4D",
+      "columns": [
+        {
+          "id": "fid",
+          "label": "FID ↓"
+        }
+      ],
+      "metrics": [
+        "fid"
+      ],
+      "rows": [
+        {
+          "id": "traj-deformable-gs",
+          "method": "Deformable-GS",
+          "paperTitle": "Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction",
+          "venue": "CVPR 2024",
+          "category": "4DGS Baseline",
+          "approach": "Canonical 3DGS + deformation MLP",
+          "scores": {
+            "fid": 92.34
+          },
+          "paper": "https://arxiv.org/abs/2309.13101",
+          "code": "https://github.com/ingra14m/Deformable-3D-Gaussians",
+          "source": "https://arxiv.org/abs/2410.13571",
+          "sourceLabel": "DriveDreamer4D",
+          "added": false,
+          "note": "Reported in DriveDreamer4D (arXiv:2410.13571) lane-change benchmark."
+        },
+        {
+          "id": "traj-dd4d-deformable",
+          "method": "DriveDreamer4D + Deformable-GS",
+          "paperTitle": "DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation",
+          "venue": "CVPR 2025",
+          "category": "Deformable-GS + World Model",
+          "approach": "Novel trajectory video synthesis via driving world model",
+          "scores": {
+            "fid": 77.32
+          },
+          "paper": "https://arxiv.org/abs/2410.13571",
+          "code": "https://github.com/GigaAI-research/DriveDreamer4D",
+          "source": "https://arxiv.org/abs/2410.13571",
+          "sourceLabel": "DriveDreamer4D",
+          "added": true,
+          "note": "Self-reported in DriveDreamer4D (arXiv:2410.13571)."
+        },
+        {
+          "id": "traj-pvg",
+          "method": "PVG",
+          "paperTitle": "Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering",
+          "venue": "CVPR 2024",
+          "category": "4DGS Baseline",
+          "approach": "Periodic vibration temporal Gaussian modeling",
+          "scores": {
+            "fid": 105.29
+          },
+          "paper": "https://arxiv.org/abs/2311.18561",
+          "code": "https://github.com/ZeyuYang/PVG",
+          "source": "https://arxiv.org/abs/2410.13571",
+          "sourceLabel": "DriveDreamer4D",
+          "added": false,
+          "note": "Reported in DriveDreamer4D (arXiv:2410.13571) lane-change benchmark."
+        },
+        {
+          "id": "traj-dd4d-pvg",
+          "method": "DriveDreamer4D + PVG",
+          "paperTitle": "DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation",
+          "venue": "CVPR 2025",
+          "category": "PVG + World Model",
+          "approach": "Novel trajectory video synthesis via driving world model",
+          "scores": {
+            "fid": 71.52
+          },
+          "paper": "https://arxiv.org/abs/2410.13571",
+          "code": "https://github.com/GigaAI-research/DriveDreamer4D",
+          "source": "https://arxiv.org/abs/2410.13571",
+          "sourceLabel": "DriveDreamer4D",
+          "added": true,
+          "note": "Self-reported in DriveDreamer4D (arXiv:2410.13571)."
+        },
+        {
+          "id": "traj-s3gaussian",
+          "method": "S3Gaussian",
+          "paperTitle": "S3Gaussian: Self-Supervised Street Gaussians for Autonomous Driving",
+          "venue": "ICRA 2025",
+          "category": "4DGS Baseline",
+          "approach": "Self-supervised hexplane dynamic street Gaussians",
+          "scores": {
+            "fid": 124.9
+          },
+          "paper": "https://arxiv.org/abs/2405.20323",
+          "code": "https://github.com/nnanhuang/S3Gaussian",
+          "source": "https://arxiv.org/abs/2410.13571",
+          "sourceLabel": "DriveDreamer4D",
+          "added": false,
+          "note": "Reported in DriveDreamer4D (arXiv:2410.13571) lane-change benchmark."
+        },
+        {
+          "id": "traj-dd4d-s3gaussian",
+          "method": "DriveDreamer4D + S3Gaussian",
+          "paperTitle": "DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation",
+          "venue": "CVPR 2025",
+          "category": "S3Gaussian + World Model",
+          "approach": "Novel trajectory video synthesis via driving world model",
+          "scores": {
+            "fid": 66.93
+          },
+          "paper": "https://arxiv.org/abs/2410.13571",
+          "code": "https://github.com/GigaAI-research/DriveDreamer4D",
+          "source": "https://arxiv.org/abs/2410.13571",
+          "sourceLabel": "DriveDreamer4D",
+          "added": true,
+          "note": "Self-reported in DriveDreamer4D (arXiv:2410.13571)."
+        }
+      ]
     }
   ],
   "metrics": {
@@ -825,6 +1624,10 @@
     {
       "date": "2026-11-18",
       "summary": "Added 2025 coverage: 14 curated papers spanning 3DGS-empowered VLA and manipulation, Gaussian world models, and feed-forward 3D reconstruction / visual geometry."
+    },
+    {
+      "date": "2026-11-21",
+      "summary": "Expanded 2025 to 55 papers, added 28 papers for 2026, and added 11 benchmark rows including a new Waymo novel-trajectory FID track and LangSplatV2 LERF results."
     }
   ]
 }
